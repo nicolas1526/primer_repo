@@ -8,3 +8,7 @@ li{
     color: blue;
     font-size: 30px;
 }
+
+a{
+    text-decoration: none;
+}
